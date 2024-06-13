@@ -1,16 +1,9 @@
-# flutter_test_drive_2_fix
+# Learning FLutter Project
 
-A new Flutter project.
+1. Changes application UI, text color, color, based on my taste
+2. Show snackbar when user tap on ListTile on favorite word in favorites page
+3. Add a new page: History
+4. Show snackbar when user tap on ListTile on word in history page
+5. Remove favorite word when user tap on ListTile on Favorite word
+6. Add 1 button to remove all word on history page
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
