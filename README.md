@@ -1,4 +1,4 @@
-# Learning FLutter Project
+# Learning Flutter Project
 
 1. Changes application UI, text color, color, based on my taste
 2. Show snackbar when user tap on ListTile on favorite word in favorites page
