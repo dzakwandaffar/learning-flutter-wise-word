@@ -17,7 +17,7 @@
    ![image](https://github.com/dzakwandaffar/learning-flutter-wise-word/assets/99236283/6dbb405d-6ced-484b-a9b0-f3eeea264fa0)
 
 
-4. Show snackbar when user tap on ListTile on word in history page
+4. Add to History when click "Selanjutnya" and Show snackbar when user tap on ListTile on word in history page
    
    ![image](https://github.com/dzakwandaffar/learning-flutter-wise-word/assets/99236283/9d5c0eec-b0a1-4796-8b05-fef845af7a29)
    ![image](https://github.com/dzakwandaffar/learning-flutter-wise-word/assets/99236283/7936c4e2-4406-486d-a812-e55974ba87db)
